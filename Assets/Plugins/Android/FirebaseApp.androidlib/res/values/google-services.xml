@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">990945537271</string>
+  <string name="google_storage_bucket" translatable="false">tileonet.appspot.com</string>
+  <string name="project_id" translatable="false">tileonet</string>
+  <string name="google_api_key" translatable="false">AIzaSyCgTfP9xM_eC_7rP-VROb7FF1Lp9W4OLkQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgTfP9xM_eC_7rP-VROb7FF1Lp9W4OLkQ</string>
+  <string name="google_app_id" translatable="false">1:990945537271:android:a7f97bfe496c3d2b5177f2</string>
+  <string name="default_web_client_id" translatable="false">990945537271-92josti66kc4lig843vhd3bv0f8u9oup.apps.googleusercontent.com</string>
+</resources>

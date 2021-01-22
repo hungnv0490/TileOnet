@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "990945537271",
+    "project_id": "tileonet",
+    "storage_bucket": "tileonet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990945537271:android:a7f97bfe496c3d2b5177f2",
+        "android_client_info": {
+          "package_name": "com.tile.tiles.onet.puzzles.puzzle.connect.match.matching.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990945537271-92josti66kc4lig843vhd3bv0f8u9oup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTfP9xM_eC_7rP-VROb7FF1Lp9W4OLkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990945537271-92josti66kc4lig843vhd3bv0f8u9oup.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990945537271-hggt8jdtnkuk3inj9m0hhsljjfje544d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tile.tiles.onet.puzzles.puzzle.connect.match.matching.games"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
